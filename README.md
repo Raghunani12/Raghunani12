@@ -36,7 +36,7 @@ I am a passionate web security enthusiast, dedicated to exploring and exploiting
 - 👯 I’m looking to collaborate on __________ 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡ I lost my world in ArchLinux
+- ⚡ I lost my world in Linux
 - 📫 How to reach me: thisisraghunani@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/14Jq-cJySrML2J1DcrEhWf5oPkETEQw0G/view?usp=sharing)
 
