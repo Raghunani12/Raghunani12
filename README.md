@@ -57,15 +57,4 @@ I am a passionate web security enthusiast, dedicated to exploring and exploiting
 
 
 
-![Raghu Sattu's github stats](https://github-readme-stats.vercel.app/api?username=Raghunani12&show_icons=true&hide_border=true)
 
-⭐️ From [Raghunani12](https://github.com/Raghunani12)
-
-
-<a href="https://github.com/Raghunani12/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raghunani12&repo=A-POP" />
-</a>
-
-<a href="https://github.com/Raghunani12/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raghunani12&repo=IIITDMJ-GPA" />
-</a>
