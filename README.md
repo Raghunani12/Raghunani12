@@ -1,3 +1,4 @@
+[![thisisraghunani's GitHub | Stats](https://stats.quira.sh/thisisraghunani/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thisisraghunani)
 
 githubUsername: 'Raghunani12'
 ---
