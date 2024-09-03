@@ -37,7 +37,7 @@ I am a passionate web security enthusiast, dedicated to exploring and exploiting
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ I lost my world in Linux
 - 📫 How to reach me: thisisraghunani@gmail.com;
-- 📝[Resume]([https://drive.google.com/file/d/14Jq-cJySrML2J1DcrEhWf5oPkETEQw0G/view?usp=sharing](https://drive.google.com/file/d/1asa1EEG8Diuw7B4IX2_S_VEY3NMwR0Rw/view?usp=sharing))
+- 📝[Resume](https://drive.google.com/file/d/1asa1EEG8Diuw7B4IX2_S_VEY3NMwR0Rw/view?usp=sharing)
 
 **Languages and Tools:**  
 
