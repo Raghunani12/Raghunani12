@@ -4,7 +4,7 @@
 ### Hey 👋🏽, I'm [RAGHU SATTU!](https://raghunani12.github.io/thisisraghunani/) 
 
 <a href="https://twitter.com/thisisraghu">
-  <img align="left" alt="RAGHU NANI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img background-color="white" align="left" alt="RAGHU NANI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thisisraghunani/">
   <img align="left" alt="Raghu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
