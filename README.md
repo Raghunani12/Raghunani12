@@ -1,59 +1,146 @@
-[![thisisraghunani's GitHub | Stats](https://stats.quira.sh/thisisraghunani/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thisisraghunani)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" />
+</p>
 
-### Hey 👋🏽, I'm [RAGHU SATTU!](https://raghunani12.github.io/thisisraghunani/) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FFAA&size=50&center=true&vCenter=true&height=60&width=700&lines=Hi!+I'm+Raghu+Sattu;Build.+Break.+Automate.+Repeat."/>
+</div>
 
-<a href="https://twitter.com/thisisraghu">
-  <img background-color="white" align="left" alt="RAGHU NANI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/thisisraghunani/">
-  <img align="left" alt="Raghu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/thisisraghu">
-  <img align="left" alt="Raghu 's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/__raghu__nani__/">
-  <img align="left" alt="Raghu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-<a href="https://leetcode.com/thisisraghunani/">
-  <img align="left" alt="Raghu's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<h2 align="left">
+  Hey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
+I'm **Raghu Sattu**, a Full-Stack Developer, Ethical Hacker, and AI Agent Builder.  
+I don’t just “learn tech” — I build systems, break them, and automate everything in between.
 
-<br />
-<br />
+From exploiting real-world vulnerabilities to deploying AI-powered tools, my focus is simple:  
+**create things that actually work in the wild.**
 
-I am a passionate web security enthusiast, dedicated to exploring and exploiting websites ethically. With a constant drive to learn and a curiosity for emerging technologies, I thrive on the challenges of ethical hacking. Additionally, I channel my expertise into developing awesome websites, combining security and creativity to deliver exceptional online experiences.
+---
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+<details>
+  <summary>More about me</summary>
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/Raghunani12/ProjectK);
-- 🌱 I’m currently learning Cyber Security and Generative AI; 
-- 👯 I’m looking to collaborate on __________ 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡ I lost my world in Linux
-- 📫 How to reach me: thisisraghunani@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1asa1EEG8Diuw7B4IX2_S_VEY3NMwR0Rw/view?usp=sharing)
+- **Name**: Raghu Sattu  
+- **From**: Hyderabad, India  
+- **Role**: Full-Stack Dev | Ethical Hacker | AI Builder  
+- Founder of **AmigoeZ IT Solutions**  
 
-**Languages and Tools:**  
+- 🧠 Experience in:
+  - Web App Pentesting  
+  - Bug Hunting (real targets, not just labs)  
+  - Automation Tools & AI Agents  
+  - Recon & Attack Surface Mapping  
 
+- ⚔️ Hands-on with:
+  - Burp Suite, Nmap, Metasploit, Wireshark  
+  - Chrome Extension Recon Automation  
+  - AI integrations (LLMs + workflows)  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 🔥 Built & shipped:
+  - AI Email Assistant (voice-enabled)  
+  - AI Task Execution Agent (multi-tool automation)  
+  - Smart automation tools for dev & security  
 
+- 🎯 Trained 350+ students in AI, Web Dev & Cybersecurity  
 
+- 📬 Reach me: **thisisraghunani@gmail.com**
 
+</details>
 
+<br>
 
+---
+
+<h2 id="present_status"> Current Mode </h2>
+
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+👉 Breaking & testing real-world applications  
+👉 Building AI agents that execute tasks, not just respond  
+👉 Writing internal tools for recon & automation  
+👉 Contributing to projects that actually solve problems  
+
+`Focus:` AI + Cybersecurity + Automation
+
+---
+
+<h2 id="knowledge_skills"> Tech Stack & Arsenal </h2>
+
+<br>
+
+<div style="border: 2px solid #00FFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000"/>
+<img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000"/>
+<img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&color=000000"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=000000"/>
+<img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&color=000000"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000"/>
+<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&color=000000"/>
+
+  </div>
+</div>
+
+---
+
+<h2 id="github_stats"> GitHub Stats 👨‍💻 </h2>
+
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghunani12&theme=vision-friendly-dark&bg_color=00000000&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=raghunani12&theme=dark&bg_color=00000000&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunani12&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true"/>
+</p>
+
+<br><br>
+
+---
+
+<h2 id="donate"> Support ⚡️ </h2>
+
+<details>
+<summary>Fuel the builds ☕</summary>
+
+<!-- <p align="center">
+  <img src="https://github.com/user-attachments/assets/b4b5c22b-2402--a298c24347dc" width="80%"/>
+</p> -->
+
+<p align="center">
+  <a href="https://buymeacoffee.com/raghusattu">
+    <img src="https://img.shields.io/badge/Support-00FFAA?style=for-the-badge"/>
+  </a>
+</p>
+
+</details>
+
+---
+
+<p align="center">
+  <b><i>"Build it. Break it. Understand it. Repeat."</i></b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg"/>
+</p>
